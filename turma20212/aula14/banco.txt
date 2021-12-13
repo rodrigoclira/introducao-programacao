@@ -1,0 +1,4 @@
+maca=20
+feijao=10
+nossa=3
+batata=3.5
