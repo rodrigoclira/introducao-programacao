@@ -1,4 +1,4 @@
-cont = 1 
+cont = 1  
 
 while cont <= 100:
     print(cont)
