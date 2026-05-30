@@ -7,3 +7,4 @@ else:
     print ("Seu carro é velho")
 
 print("Fim")
+print("Fim")
